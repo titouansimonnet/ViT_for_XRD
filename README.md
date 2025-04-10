@@ -2,7 +2,7 @@
 ## Abstract  
 We propose to use Vision Transformers (ViT) [1] to identify and quantify mineral phases from X-Ray diffraction patterns.
 
-![Abstract](./Figures/Transformers_Spectral.pdf)
+![Abstract](./Figures/Transformers_Spectral.svg)
 
 
 ## References
