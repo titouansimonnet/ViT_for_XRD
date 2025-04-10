@@ -1,7 +1,6 @@
 # ViT_for_XRD
 ## Abstract  
-We propose to use Vision Transformers (ViT) [1]
-
+We propose to use Vision Transformers (ViT) [1] to identify and quantify mineral phases from X-Ray diffraction patterns.
 
 
 
