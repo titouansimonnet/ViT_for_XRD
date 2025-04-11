@@ -6,7 +6,7 @@ We propose to use Vision Transformers (ViT) [2] to identify and quantify mineral
 ![Abstract](./Figures/Transformers_Spectral.svg)
 
 Jupyter Notebook and databases are available to train the ViT. Our trained models are also available.  
-Jupyter for Attention Rollout and Positional encoding for identification problem are also available.
+Jupyter for [Attention Rollout](https://jacobgil.github.io/deeplearning/vision-transformer-explainability) and Positional encoding for identification problem are also available.
 
 
 ## References
