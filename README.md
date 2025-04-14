@@ -1,6 +1,6 @@
 # ViT_for_XRD
 ## Abstract  
-[1] This work was published for the 2025 ICASSP Conference, and following on from our previous work [2].
+[1] This work was published for the 2025 ICASSP Conference, and following on from our previous work [2].  
 We propose to use Vision Transformers (ViT) [3] to identify and quantify mineral phases from X-Ray diffraction patterns.
 
 ![Abstract](./Figures/Transformers_Spectral.svg)
