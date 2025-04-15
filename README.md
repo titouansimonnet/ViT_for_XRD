@@ -1,9 +1,9 @@
 # ViT_for_XRD
 ## Abstract  
-This repository contains the materials for the paper [1] presented at the 2025 ICASSP conference, which follows on from our previous work [2].
-We propose to use Vision Transformers (ViT) [3] to identify and quantify mineral phases from X-ray diffraction patterns.
-Jupyter notebook and databases are available for training the ViT. Our trained models are also available.
-Jupyter Notebook for Attention Rollout and Positional Encoding [3] for the identification problem are also available.
+This repository contains the materials for the paper [1] presented at the 2025 ICASSP conference, which follows on from our previous work [2].  
+We propose to use Vision Transformers (ViT) [3] to identify and quantify mineral phases from X-ray diffraction patterns.  
+Jupyter notebook and databases are available for training the ViT. Our trained models are also available.  
+Jupyter Notebook for Attention Rollout and Positional Encoding [3] for the identification problem are also available.  
 
 
 ![Abstract](./Figures/Transformers_Spectral.svg)
